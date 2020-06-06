@@ -1,0 +1,141 @@
+body{
+    margin:0px;
+}
+
+.navbar{
+    background-color: #ff9900 !important ;
+}
+#aa{
+  padding-left: 30px;
+}
+
+.btn{
+  background-color: green;
+border-radius: 12px;
+}
+
+.btn:hover{
+  opacity: 0.7;
+  color: #ff9900 ;
+  
+}
+
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: darkgreen !important;
+}
+img{
+    height: 80px;
+    width: 100px;
+}
+#home{
+  background-color: green;
+border-radius: 12px;
+}
+
+
+#gallery{
+    text-align: center;
+    
+    margin-top: 20px;
+    
+}
+
+div > h1{
+    font-size:5vw;
+
+
+}
+
+
+
+div > p{
+    font-size:20px;
+
+
+}
+
+
+
+/* footer */
+
+.footer{
+    background: #ff9900;
+    color:white;
+/*  */
+}
+   
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+  
+    text-decoration: none;
+    margin: 5px 2px;
+border-radius: 50%;  
+
+}
+
+  
+  .fa:hover {
+      opacity: 0.7;
+      color: #ff9900 ;
+      
+  }
+  
+  .fa-facebook {
+    background-color: darkgreen;
+    color: white;
+   
+  }
+  
+  .fa-twitter {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  .fa-google {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  
+  .fa-phone {
+    background-color: darkgreen;
+    color: white;
+  }
+  .fa-envelope-o {
+    background-color: darkgreen;
+    color: white;
+  
+  }
+  
+  #copy{
+      background-color: darkgreen;
+      width: 100%;
+  }
+
+  #order{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 12px;
+  }
